@@ -1,0 +1,16 @@
+{
+  "name": "topview-duel",
+  "version": "1.1.0",
+  "description": "Top-down real-time 1v1 browser game prototype",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  },
+  "engines": {
+    "node": ">=20 <25"
+  }
+}
